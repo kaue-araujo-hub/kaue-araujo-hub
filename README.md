@@ -1,6 +1,6 @@
 ## Olá, sou o Kauê! 👋
 
-- 🔭 Trabalhando em aplicação WEB
+- 🔭 Desenvolvendo projetos WEB
 - 🌱 Estudando HTML, CSS e JS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaue-araujo-hub&show_icons=true&theme=white)
